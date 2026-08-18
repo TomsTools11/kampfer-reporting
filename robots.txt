@@ -1,0 +1,4 @@
+# This site hosts client-facing reporting pages that are not meant to be indexed.
+# Remove this file (or set "Disallow:" empty) if you want search engines to crawl it.
+User-agent: *
+Disallow: /
